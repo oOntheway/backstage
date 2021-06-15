@@ -1,5 +1,17 @@
 # @backstage/plugin-splunk-on-call
 
+## 0.3.2
+
+### Patch Changes
+
+- ae903f8e7: Added config schema to expose `splunkOnCall.eventsRestEndpoint` config option to the frontend
+- Updated dependencies [172c97324]
+- Updated dependencies [1d2ed7844]
+- Updated dependencies [d4644f592]
+  - @backstage/plugin-catalog-react@0.2.3
+  - @backstage/catalog-model@0.8.3
+  - @backstage/core@0.7.13
+
 ## 0.3.1
 
 ### Patch Changes

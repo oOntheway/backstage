@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog-import
 
+## 0.5.10
+
+### Patch Changes
+
+- 873116e5d: Fix a react warning in `<EntityListComponent>`.
+- Updated dependencies [172c97324]
+- Updated dependencies [1d2ed7844]
+- Updated dependencies [d4644f592]
+  - @backstage/plugin-catalog-react@0.2.3
+  - @backstage/catalog-model@0.8.3
+  - @backstage/core@0.7.13
+
 ## 0.5.9
 
 ### Patch Changes

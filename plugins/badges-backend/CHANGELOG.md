@@ -1,5 +1,16 @@
 # @backstage/plugin-badges-backend
 
+## 0.1.7
+
+### Patch Changes
+
+- 3108ff7bf: Make `yarn dev` respect the `PLUGIN_PORT` environment variable.
+- Updated dependencies [e5cdf0560]
+- Updated dependencies [772dbdb51]
+- Updated dependencies [1d2ed7844]
+  - @backstage/backend-common@0.8.3
+  - @backstage/catalog-model@0.8.3
+
 ## 0.1.6
 
 ### Patch Changes

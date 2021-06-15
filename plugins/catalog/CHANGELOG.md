@@ -1,5 +1,19 @@
 # @backstage/plugin-catalog
 
+## 0.6.3
+
+### Patch Changes
+
+- 30c2fdad2: Exports `CatalogLayout` and `CreateComponentButton` for catalog customization.
+- d2d42a7fa: Fix for Diagram component using hard coded namespace.
+- 2ebc430c4: Export `CatalogTableRow` type
+- Updated dependencies [172c97324]
+- Updated dependencies [1d2ed7844]
+- Updated dependencies [d4644f592]
+  - @backstage/plugin-catalog-react@0.2.3
+  - @backstage/catalog-model@0.8.3
+  - @backstage/core@0.7.13
+
 ## 0.6.2
 
 ### Patch Changes

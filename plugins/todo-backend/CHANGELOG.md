@@ -1,5 +1,16 @@
 # @backstage/plugin-todo-backend
 
+## 0.1.7
+
+### Patch Changes
+
+- a6a0ba7ff: Bump `leasot` dependency from 11.5.0 to 12.0.0, removing support for Node.js version 10.
+- Updated dependencies [e5cdf0560]
+- Updated dependencies [772dbdb51]
+- Updated dependencies [1d2ed7844]
+  - @backstage/backend-common@0.8.3
+  - @backstage/catalog-model@0.8.3
+
 ## 0.1.6
 
 ### Patch Changes
